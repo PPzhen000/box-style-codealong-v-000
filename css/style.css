@@ -162,7 +162,7 @@ header {
 
 #navbar nav a:hover {
   color: white;
-  
+
 }
 
 /*////////// LOGO //////////*/
@@ -188,7 +188,9 @@ section {
 
 /*////////// DETAILS //////////*/
 
-
+#details {
+  border-top:
+}
 
 #details div {
   height: 221px;
@@ -209,3 +211,11 @@ section {
 }
 
 /*////////// FOOTER //////////*/
+
+footer {
+  text-align: center;
+  font-size: 0.75em;
+  padding: 10px;
+  background: #eee;
+  border-top: 
+}
