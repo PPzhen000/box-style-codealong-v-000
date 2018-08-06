@@ -44,7 +44,7 @@ figcaption {
 }
 
 .medium-fade {
-  
+
 }
 
 /*/////// MEDIA ////////*/
@@ -128,7 +128,9 @@ header {
 
 
 /*////////// NAVBAR //////////*/
-
+#navbar {
+  position: fixed;
+}
 
 
 /*////////// LOGO //////////*/
